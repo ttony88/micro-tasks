@@ -6,11 +6,7 @@ import { Footer } from './site/footer/Footer';
 
 function App() {
   return (
-    <>
-      <Header title="NewHeader" />
-      <Body title="NewBody" />
-      <Footer title="NewFooter"/>
-    </>
+    
   );
 }
 
